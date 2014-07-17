@@ -7,9 +7,9 @@ conferences.
 
 == What Does It Do?
 Boot Dragon listens for tweets then writes a small Spring Boot web application that
-containing the content of the tweet. The application is saved as a GitHub Gist and a
-reply is sent the user with a link to the Gist and a small preview animation. There is
-UI is designed to be displayed whilst all this is going on that shows the dragon
+contains the content of the tweet. The application is saved as a GitHub Gist and a
+reply is sent to the user with a link to the Gist and a small preview animation. The
+UI is designed to be displayed -- whilst all this is going on -- that shows the dragon
 furiously typing.
 
 
