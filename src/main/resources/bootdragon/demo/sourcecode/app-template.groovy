@@ -18,7 +18,7 @@ Lean more about Spring Boot at http://spring.io/projects/spring-boot
 @RestController
 class Example {
 	@ResponseBody
-	public String helloWorld() {
+	String helloWorld() {
 		${quotedmessage}
 	}
 }
